@@ -17,5 +17,5 @@
 </ul><br>
 
 <h2>Projek</h2><br>
-<h5>Klasifikasi Gambar Bunga</h5><br>
+<h5>Klasifikasi Gambar Bunga</h5>
 <h5>Link Dataset: </h5><br>
