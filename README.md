@@ -39,7 +39,7 @@ Projek akhir ini membahas mengenai model kecerdasan buatan dalam mendeteksi jeni
 Kumpulan data yang berisikan gambar jenis bunga, yaitu tulip, rose dan sunflower. Data citra tersebut kemudian dibagi menjadi 3 kelas berdasarkan kondisinya, yaitu  tulip, rose dan sunflower ke dalam folder yang terpisah, yakni train dan test dengan perbandingan 7:3. Setiap kelasnya memiliki jumlah gambar yang bereda-beda, untuk rose : 1510 gambar, sunflower : 1366, dan tulip : 1975 gambar sehingga total keseluruhan sebanyak 4851 gambar. Tiap-tiap gambar berukuran 150 x 150pixel dengan penggunaan warna RGB.
 
 <h5>Link Dataset: https://www.kaggle.com/datasets/alxmamaev/flowers-recognition</h5>
-<h5>link sumber dataset   : https://www.kaggle.com/datasets/alxmamaev/flowers-recognition/code</h5><br>
+<h5>Link Sumber Dataset   : https://www.kaggle.com/datasets/alxmamaev/flowers-recognition/code</h5><br>
 
 <strong>Project Preview</strong><br><br>
 <img src="image/visualisasi-dataset.png" alt="Screenshot Visualisasi dataset sebelum melakukan augmentasi">
